@@ -8,6 +8,7 @@
 
 - Basics of Java like Data Types, Loops, Conditional Operators.
 - Also did some practice questions.
+- Switch and Nested Switch Conditions.
 
 ---
 
