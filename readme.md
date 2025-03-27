@@ -6,7 +6,7 @@
 
 ### Learning Objectives
 
-- Basics of Java like Data Types, Loops, Conditional Opearators.
+- Basics of Java like Data Types, Loops, Conditional Operators.
 - Also did some practice questions.
 
 ---
