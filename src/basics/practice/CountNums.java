@@ -1,4 +1,4 @@
-package practice;
+package basics.practice;
 
 public class CountNums {
     public static void main(String[] args) {

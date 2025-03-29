@@ -1,4 +1,4 @@
-package practice;
+package basics.practice;
 
 // given three digits number and if we make cube of that three digits number and add those number then the sum is also should be the same number
 
