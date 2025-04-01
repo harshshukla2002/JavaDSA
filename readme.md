@@ -7,8 +7,13 @@
 ### Learning Objectives
 
 - Basics of Java like Data Types, Loops, Conditional Operators.
-- Also did some basics.practice questions.
+- Also did some basics practice questions.
 - Switch and Nested Switch Conditions.
+- Taking input in java.
+- Overloading in java.
+- Learned Functions and how to pass values and VarArgs.
+- Learning searching algorithms like <b>Linear Search</b> and <b>Binary Search</b>.
+- Solved question on these algorithms.
 
 ---
 
