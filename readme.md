@@ -12,6 +12,7 @@
 - Taking input in java.
 - Overloading in java.
 - Learned Functions and how to pass values and VarArgs.
+- Learned about arrays.
 - Learning searching algorithms like <b>Linear Search</b> and <b>Binary Search</b>.
 - Solved question on these algorithms.
 
