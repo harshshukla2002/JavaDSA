@@ -1,6 +1,7 @@
 package sorting.practise;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class AllDuplicatNumbers {
@@ -9,24 +10,28 @@ public class AllDuplicatNumbers {
         List<Integer> ans = findDuplicates(arr);
 
         System.out.println(ans);
-
     }
 
     static List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new ArrayList<>();
+        sort(nums);
 
+       for(int i=0;i<nums.length;i++){
+           if(i+1 != nums[i]) res.add(nums[i]);
+       }
+
+        return res;
+    }
+
+    static void sort(int[] nums){
         int index = 0;
 
         while(index < nums.length){
-            if(index + 1 != nums[index]){
-                int correctIndex = nums[index] - 1;
+            int correctIndex = nums[index] - 1;
 
-                if(nums[index] != nums[correctIndex]) swap(nums, index, correctIndex);
-                else res.add(nums[index]);
-            }else index++;
+            if(nums[index] != nums[correctIndex]) swap(nums, index, correctIndex);
+            else index++;
         }
-
-        return res;
     }
 
     static void swap(int[] arr, int a, int b){
