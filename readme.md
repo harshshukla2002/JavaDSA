@@ -8,14 +8,15 @@
 
 - Basics of Java like Data Types, Loops, Conditional Operators.
 - Also did some basics practice questions.
-- Switch and Nested Switch Conditions.
+- <b>Switch</b> and Nested Switch Conditions.
 - Taking input in java.
 - Overloading in java.
-- Learned Functions and how to pass values and VarArgs.
-- Learned about arrays.
+- Learned <b>Functions</b> and how to pass values and VarArgs.
+- Learned about <b>Arrays</b>.
 - Learning searching algorithms like <b>Linear Search</b> and <b>Binary Search</b>.
 - Solved question on these algorithms.
-- Learned Sorting algorithms.
+- Learned <b>Sorting algorithms</b>.
+- Learned <b>Recursions</b>.
 
 ---
 
